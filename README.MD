@@ -1,5 +1,9 @@
 # REST to NATS proxy.
 
+
+**WARNING! This is just a fork to see if it works with go modules and the recent NATS version**
+
+
 REST API over [NATS protocol](http://nats.io).
 
 [![Build Status](https://travis-ci.org/sohlich/nats-proxy.svg?branch=master)](https://travis-ci.org/sohlich/nats-proxy)

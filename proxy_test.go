@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/nats-io/nats"
+	"github.com/nats-io/nats.go"
 )
 
 // TestProxy integration test to
